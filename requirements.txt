@@ -1,0 +1,5 @@
+pymongo==4.2.0
+
+-e . #editable mode. trigger the setup.py file and instantiate find_package() function
+#it is used to not execute setup.py file again and again to find the packages
+
